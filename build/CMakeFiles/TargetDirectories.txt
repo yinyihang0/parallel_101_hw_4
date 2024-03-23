@@ -1,0 +1,3 @@
+/mnt/h/coding/projects/intrin/build/CMakeFiles/rebuild_cache.dir
+/mnt/h/coding/projects/intrin/build/CMakeFiles/edit_cache.dir
+/mnt/h/coding/projects/intrin/build/CMakeFiles/ori_sse_compare.dir
