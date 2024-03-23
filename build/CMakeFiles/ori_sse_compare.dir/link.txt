@@ -1,1 +1,0 @@
-/usr/bin/c++    -fopenmp CMakeFiles/ori_sse_compare.dir/main.cpp.o  -o ori_sse_compare 
